@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "edith-smarthome",
+  "private_key_id": "54caf48b78eaa00ff27dbbca614eafb5d32a1938",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkxtlv/faSEga8\nD7bXh18yNx54nFbiJO1TwvsZhEeTfcyZomwtwRoOpRSjzhl2D7oubH/yj3Ct1Lnh\nwuOnsHMwqHecq14gsIVj8roVKdswrC2nowtaFcy4U6MOpR2fIJe37Egj3l0U/KVW\nl87nRofhDNEq182Lmu7ltWuFtriNS2U+pwq7oC5Y/wD1+F5FhlSyPJxAVwJHsv3l\ns76KrX/TFLMqWCK+WO5iH0WvOK+GLfPaw7MOcPUtqH2Z99UVab9sn6RYTi9E9462\nCIWPPUh2U+kejp7APBeSjVeDMYr9rCBsBwcSJrJq6M3TkKdqdTs6UJlg/zZ6ZHws\nO8zH553BAgMBAAECggEAAoP07M5WOPpqkn4rKyRpgElYoDXfSUK/HG5OYeBfEA4r\n1Uo9cuIaf3UO4eug85yJkBQEVGssVx4bN3/nlGF1y4qrPE281Ax5BIWUsCloQFxA\n3Ox1O2Bp18QlwJ2jJ/Tg57TIOBbXCitkUVb5WtPiKBGU/Dw0l95lEw8ulR4PbJyP\nXASMVey2CL7im4DY2RYqTuTaXz687p4izbcYiqW7GAxBYcJrtpGq99y54wFSXeQh\nVt0fwJWPfBiChpGif65teu6rfb9oSjEsM8Dqs7l+7HYhWlpQestVZYpWLqBvSZ80\n7HkoMHgGwGdqzJmHSSnogKmIqSSEtaqHyFRXs9gYswKBgQD7G2wt2s2/VFEQhp44\nGqTTqYzPwWwKqUcgLntOdct3zdgqZYyrqgnngDix/6EMXxdjwG1oYfJNt+zBLwfR\n6U9t6YP+6rUhN9veM9HtFRzCROXr91MPJwQFPPTzAy5/so0OhjTU/e6iFz3rvlJz\nVFZB/aIubt+eptYfak5XJ7kGIwKBgQDpPAm8isgCp0Y0RTgSR40F31N2jiNZQdN6\nbjujEXqU0QyxIMJhwkBsLBCAnTjnbl61ivfV3MrTKSr5c9aWTruvay84oybMrE3e\nprZT+KPTSqjRG1bxGKE8yDySRjCH+ovu2VU2anQ+oO+sK5NjeJHO0ULJGoaak9qE\nPcsbK61AywKBgD7fIdnlU+iY2ucxXYIcobJhXGFUQ5HzylwzZypA8h3gC0SqQmtk\n2q/8+bUPlSo80OVn87zT8VAmQgAon2OecAXMFwGHkKxtiP58qQ4cYCQADjVjqoc7\ntJT/KzGBVW4hrZG6ZpYBsnMhMJ7K+2fm8OX69FV96z2U9j3NZyoJRxlTAoGBAMM2\nShvxuKhn4126lczO8Fz65/uxyipZ6yxs+SNqbMQEGPBkL+3szUj8tK9BaLBj84dV\nkkwA6g5FRb/WUcQqj/Kp7rMj80SZ7u8tcCvmTxB5S8UBcgqHh+S83926O8KEVP0M\nEMNj5HnK7++V5V37O2b0RUbXGdRlbh8DLW1HaFJzAoGBANy9O8c2Hz+YkViDSZQv\nScnAYNd3kf4Fpr30UvnrWQmzKSeViyurD9Vz0QRbiW44XrUYg0vjXgdNCRCSNJaM\nFDnXoxmlN81VvxPjZ3uQmXZ7YgrVOUsVb+RPDuScTcW5Mi78H9L7XVCWi3tWK6GT\ndW/NDZXUDx4TsuQpWd4Ee6o2\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5chet@edith-smarthome.iam.gserviceaccount.com",
+  "client_id": "112242766400581054759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5chet%40edith-smarthome.iam.gserviceaccount.com"
+}
